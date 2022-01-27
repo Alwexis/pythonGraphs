@@ -16,5 +16,5 @@ Programa que crea gráficos de Pie (o torta) en base a los Lenguajes usados en l
 Utilizando la Rest API [GitHub](https://docs.github.com/en/rest)
 
 ### Ejemplos:
-|  | |
-| ------------- | ------------- | ------------- |
+| ![image](https://user-images.githubusercontent.com/51482182/151461955-89315cad-0996-4625-9c3e-81012cecff05.png) | ![image](https://user-images.githubusercontent.com/51482182/151462092-8529ee22-2d6d-4fb9-affd-6a1e7f96228c.png) |
+| ------------- | ------------- |
